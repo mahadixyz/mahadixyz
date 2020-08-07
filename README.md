@@ -1,10 +1,5 @@
 ### Hi there 👋, I am Mahadi
 
-<!--
-**mahadixyz/mahadixyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on *My Portfolio and My Blog*
 - 🌱 I’m currently learning *Laravel, Java, ES6*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/mahadixyz/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Not having fun at 2020 😤
--->
