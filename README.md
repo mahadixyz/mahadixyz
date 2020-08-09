@@ -10,16 +10,27 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Not having fun at 2020 😤
 
-## Skills - Languages and Tools:
+## Skills
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Languages:**
+<img align="left" alt="HTML 5" title="HTML 5" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/html5.jpg" />
+<img align="left" alt="CSS 3" title="CSS 3" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/css3.jpg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/bootstrap.jpg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/js.jpg" />
+<img align="left" alt="PHP 7" title="PHP 7" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/php.jpg" />
+<img align="left" alt="SQL" title="SQL" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/sql.jpg" />
+<img align="left" alt="Laravel" title="Laravel" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/laravel.jpg" />
+<img align="left" alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/java.jpg" />
+<img align="left" alt="C Plus Plus" title="C Plus Plus" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/cpp.jpg" />
+
+**Tools:**
+<img align="left" alt="Git" title="Git" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/git.jpg" />
+<img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/mysql.jpg" />
+<img align="left" alt="Postman" title="Postman" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/postman.jpg" />
+<img align="left" alt="Sublime Text 3" title="Sublime Text 3" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/sublime-text.jpg" />
+<img align="left" alt="VS Code" title="VS Code" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/vs-code.jpg" />
+<img align="left" alt="Intellij IDEA" title="Intellij IDEA" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/intellij-idea.jpg" />
+<img align="left" alt="CodeBlocks" title="CodeBlocks" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/codeblocks.jpg" />
+<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/photoshop.jpg" />
+<img align="left" alt="Github" title="Github" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/github.jpg" />
 
