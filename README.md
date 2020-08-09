@@ -13,6 +13,7 @@
 ## Skills
 
 **Languages:**
+<br>
 <img align="left" alt="HTML 5" title="HTML 5" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/html5.jpg" />
 <img align="left" alt="CSS 3" title="CSS 3" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/css3.jpg" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/bootstrap.jpg" />
@@ -22,8 +23,10 @@
 <img align="left" alt="Laravel" title="Laravel" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/laravel.jpg" />
 <img align="left" alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/java.jpg" />
 <img align="left" alt="C Plus Plus" title="C Plus Plus" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/cpp.jpg" />
+<br>
 
 **Tools:**
+<br>
 <img align="left" alt="Git" title="Git" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/git.jpg" />
 <img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/mysql.jpg" />
 <img align="left" alt="Postman" title="Postman" width="40px" src="https://raw.githubusercontent.com/mahadixyz/mahadixyz/master/logo/postman.jpg" />
