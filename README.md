@@ -61,17 +61,15 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=for-the-badge) 
+![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahadixyz)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Last-commit](https://img.shields.io/github/last-commit/mahadixyz/mahadixyz?style=flat-square)
 
 ![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadixyz&show_icons=true&theme=dracula)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadixyz&theme=dracula)
 
-<br>
-<br>
 
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahadixyz)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Last-commit](https://img.shields.io/github/last-commit/mahadixyz/mahadixyz?style=flat-square)
 
 
