@@ -23,7 +23,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 
 - 🔭 I’m currently working on *Personal Projects*
-- 🌱 I’m currently learning *Laravel, Vue* and *German* :de:
+- 🌱 I’m currently learning *Laravel, Vue* and *German*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *Laravel*
 - 💬 Ask me about anything at [@mahadixyz](https://twitter.com/mahadixyz)
