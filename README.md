@@ -40,9 +40,9 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![VUE](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![VUE](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -63,8 +63,8 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 ![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mahadixyz)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg&style=flat-square)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg&style=flat-square)
 ![Last-commit](https://img.shields.io/github/last-commit/mahadixyz/mahadixyz?style=flat-square)
 
 ![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadixyz&show_icons=true&theme=dracula)
